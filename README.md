@@ -20,8 +20,10 @@ We hebben de badge ook uitgerust met:
 - veel drukknoppen
 - joystick
 - microSD kaart lezer
-- een prachtige [2” IPS LCD met touchscreen](Datasheets/HXR20062C21.pdf)
-- een [extra microcontroller](Datasheets/CH32X035DS0.PDF) voor meer IO
+- prachtige [2” IPS LCD met touchscreen](Datasheets/HXR20062C21.pdf)
+- audio in- en uitgang in de vorm van een 3.5mm TRRS jack
+- [extra microcontroller](Datasheets/CH32X035DS0.PDF) voor meer IO
+- optionele [LoRa module](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-without-IPEX-Tape-Reel-p-6417.html)
 
 Er is opnieuw een [tweede voeding](Datasheets/xc6210.pdf) geplaatst om de Wi-Fi module afzonderlijk van voeding te voorzien. Om energie te besparen kan je deze uitschakelen, enkel de ESP32-S3 en de board controller zullen dan nog stroom krijgen. 
 
