@@ -1,0 +1,28 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 21:05:31 On 01/03/2026
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [Fri3D_2026_01.PcbDoc]
+   Generated File[Fri3D_2026_01.GTO]
+   Generated File[Fri3D_2026_01.GTP]
+   Generated File[Fri3D_2026_01.GTS]
+   Generated File[Fri3D_2026_01.GTL]
+   Generated File[Fri3D_2026_01.GBL]
+   Generated File[Fri3D_2026_01.GBS]
+   Generated File[Fri3D_2026_01.GBP]
+   Generated File[Fri3D_2026_01.GBO]
+   Generated File[Fri3D_2026_01.GM6]
+   Generated File[Fri3D_2026_01.GM25]
+   Generated File[Fri3D_2026_01.GD1]
+   Generated File[Fri3D_2026_01.GG1]
+   Generated File[Fri3D_2026_01.RUL]
+   Generated File[Fri3D_2026_01.EXTREP]
+   Generated File[Fri3D_2026_01.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 21:05:34 On 01/03/2026
