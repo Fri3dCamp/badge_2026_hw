@@ -1,7 +1,7 @@
 # Badge 2026 hardware
 In deze Git repository kan je de ontwerpbestanden en productiedata vinden van de [Fri3d Camp](https://fri3d.be/) 2026 badge. Revisie 02 is de versie die op kamp zal uitgedeeld worden.
 
-Het schema kan je terug vinden in de [revisie 02 map](Fri3d_2026_Badge_02/OUTPUT/Fri3D Badge 2026_02.PDF).
+Het schema kan je terug vinden in de [revisie 02 map](<Fri3d_2026_Badge_02/OUTPUT/Fri3D Badge 2026_02.PDF>).
 
 De badge is gebouwd rond de **Espressif [ESP32-S3-WROOM-1-N16R8](Datasheets/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf) module** met :
 
