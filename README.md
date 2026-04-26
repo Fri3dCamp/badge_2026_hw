@@ -41,6 +41,10 @@ We hebben plek voorzien voor een [SAO header]( https://hackaday.com/2019/03/20/i
 
 Voor de liefhebbers heeft Yvan Barbaix ook een 3D model gemaakt om de joystick wat gebruiksvriendelijker te maken. Deze kan je terugvinden in de `3D` map. Verder kan je het 3D model van de badge ook terugvinden in deze map.
 
+Het blokschema van de badge geeft tevens een mooi overzicht hoe alles verbonden is met elkaar, dit is een vereenvoudigde weergave van [het schema](<Fri3d_2026_Badge_02/OUTPUT/Fri3D Badge 2026_02.PDF>).
+
+![Badge 2026 02 Block diagram](Media/Badge2026.drawio.png)
+
 # Badge 2026 hardware (EN)
 This repository contains the hardware design and production files for the [Fri3d Camp](https://fri3d.be/en/) 2024 badge.
 Revision 02 will be handed out during the event.
